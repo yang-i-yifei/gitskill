@@ -1,2 +1,3 @@
 i am richer
 init git
+add 2 
